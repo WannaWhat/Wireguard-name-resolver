@@ -1,8 +1,8 @@
-#Wireguard Name Resolver
+# Wireguard Name Resolver
 
 **Wireguard Name Resolver** modifies the output of the **wg show** standard program and adds peer names to output. This allows you to quickly get information about connected clients.
 
-##Example
+## Example
 ### $ _wg show_
 
 ![img.png](img/img.png)
@@ -62,7 +62,7 @@ peer: Android - OJFCl7jlaxy0HCBgtmlR3IiChaPQmaCN14CLgJIPAAw=
   allowed ips: 10.10.10.3/32
 ```
 
-##Installation
+## Installation
 
 ```bash
 $ git clone https://github.com/wannawhat/wg-name-resolver
