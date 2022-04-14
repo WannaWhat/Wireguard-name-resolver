@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# Author: wannawhat
+# Git: https://github.com/wannawhat
+
+
 import subprocess
 import sys
 import os
