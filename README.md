@@ -1,6 +1,8 @@
 #Wireguard Name Resolver
 
 **Wireguard Name Resolver** modifies the output of the **wg show** standard program and adds peers names to the output. This allows you to quickly get the information about all the connected clients.
+
+
 ##Example
 ### $ _wg show_
 
